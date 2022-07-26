@@ -98,8 +98,7 @@ body {
 
 
 .back {
-  background: url('https://shoplineimg.com/5ab875018d1db9e3db00025b/617bcee53748c70017e2e93f/750x.jpeg?');
-  /*填滿長寬 有一點變型*/
+  background: url('img/wandcard.jpeg');
   background-size: 100% 100%;
   background-repeat: no-repeat;
   border-color: 1px solid #ffffff;
