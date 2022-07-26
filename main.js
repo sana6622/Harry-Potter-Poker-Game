@@ -7,10 +7,10 @@ const GAME_STATE = {
 }
 
 const Symbols = [
-  'https://harrypottertoengland.webnode.tw/_files/200000624-9f02b9ffcc/Gryffindorcrest.jpg', //葛萊//
-  'https://harrypottertoengland.webnode.tw/_files/200000628-3a2723b212/Slytherincrest.jpg ',//史來哲林//
-  'https://harrypottertoengland.webnode.tw/_files/200000626-21dd022d76/Hufflepuffcrest.jpg',//赫夫帕夫//
-  'https://harrypottertoengland.webnode.tw/_files/200000627-81864827f6/Ravenclawcrest.jpg' //雷文克勞//
+  'img/Gryffindorcrest.jpg', //葛萊//
+  'img/Slytherincrest.jpg ',//史來哲林//
+  'img/Hufflepuffcrest.jpg',//赫夫帕夫//
+  'img/Ravenclawcrest.jpg' //雷文克勞//
 ]
 
 
