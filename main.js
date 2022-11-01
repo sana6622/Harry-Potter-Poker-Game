@@ -16,7 +16,7 @@ const Symbols = [
 
 const view = {
   getCardElement(index) {
-    return `<div class="card back" data-index=${index} ></div>`
+    return `<div class=" card back " data-index=${index} ></div>`
   },
 
   getCardContent(index) {
@@ -205,4 +205,11 @@ document.querySelectorAll('.card').forEach(item => {
     controller.CardAction(item)
   })
 })
+
+
+
+
+
+
+
 
